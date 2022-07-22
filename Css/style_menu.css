@@ -35,11 +35,14 @@
 
 .dropdown-menu{
 	font-weight: bold;
+	font-size: 12px;
 }
 
 
 
-.navbar-nav > li > .dropdown-menu a{   color :rgba(3, 169, 244, 1)!important; FONT-FAMILY: "Lucida Sans","Trebuchet MS",sans-serif; }
+.navbar-nav > li > .dropdown-menu a{
+	color :rgba(3, 169, 244, 1)!important;
+	 FONT-FAMILY: "Lucida Sans","Trebuchet MS",sans-serif; }
 
 
 
