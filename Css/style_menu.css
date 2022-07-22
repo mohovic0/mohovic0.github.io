@@ -42,8 +42,12 @@
 
 .navbar-nav > li > .dropdown-menu a{
 	color :rgba(3, 169, 244, 1)!important;
-	 FONT-FAMILY: "Lucida Sans","Trebuchet MS",sans-serif; }
+	 FONT-FAMILY: "Lucida Sans","Trebuchet MS",sans-serif;
+	 }
 
+.active{
+		color:#1f34b5 !important;
+	}
 
 
 @media(max-width:668px){
