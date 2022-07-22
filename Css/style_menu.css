@@ -11,6 +11,7 @@
 }
 
 
+
 .navbar{
 	width:100%;
 	background:rgba(3, 169, 244, 1);
@@ -24,6 +25,8 @@
 .nav-link:hover {
 	color :#1f34b5!important;
 }
+
+
 
 .nav-link {
 	color :white!important;
@@ -41,15 +44,36 @@
 
 
 .navbar-nav > li > .dropdown-menu a{
-	color :rgba(3, 169, 244, 1)!important;
+	 color :rgba(3, 169, 244, 1)!important;
+
 	 FONT-FAMILY: "Lucida Sans","Trebuchet MS",sans-serif;
-	 }
+}
 
 .active{
 		color:#1f34b5 !important;
 	}
 
 
+
 @media(max-width:668px){
-	.nav-link{text-align:center; }
+	.nav-link
+	{
+		text-align:center; 
+	}
 }
+
+.dropdown-menu > li > .active{
+	background-color: #ADD8E6;
+
+}
+
+.dropdown-item:hover {
+	background-color: #ADD8E6;
+
+}
+
+
+
+
+
+
